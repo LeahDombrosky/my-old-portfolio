@@ -1,0 +1,46 @@
+#navbar {
+  width: 550px;
+  height: 35px;
+  font-size: 16px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  /* text-shadow: 3px 2px 3px #333333; */
+
+  border-radius: 8px;
+}
+#navbar ul {
+  height: auto;
+  padding: 8px 0px;
+  margin: 0px;
+}
+#navbar li {
+  display: inline;
+  padding: 20px;
+}
+
+#navbar a:hover {
+  color: #f90;
+  background-color: #fff;
+}
+
+.body {
+  text-align: center;
+  background-image: url(http://res.cloudinary.com/dprwcu2td/image/upload/v1499567582/Office3_download_swaccs.jpg);
+}
+.boxed {
+  background-color: white;
+  width: 300px;
+  height: 120px;
+  border: 2px solid blue;
+  border-radius: 5px;
+  font-family: Monospace, Sans-serif;
+}
+.boxed2 {
+  background-color: #daa520;
+  width: 390px;
+  height: 100px;
+  border: 2px solid #a0522d;
+  border-radius: 5px;
+  font-family: Sans-serif;
+}
